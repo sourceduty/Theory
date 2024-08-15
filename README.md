@@ -19,7 +19,7 @@ Through the application of scientific theories, Sourceduty ensures that its appr
 
 #
 
-Alex : "*In business and science, I refer to informational subjects that I have yet to entirely learn as theoretical.*"
+> Alex : "*In business and science, I refer to informational subjects that I have yet to entirely learn as theoretical.*"
 
 > "*Processing was a theory until I understood how it worked.*"
 
