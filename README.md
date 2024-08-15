@@ -26,6 +26,10 @@ Abstraction in theory also involves removing the details that are not necessary 
 
 In a broader sense, the abstraction of theory can be visualized using a topology diagram that illustrates how different levels of abstraction are connected. At the lowest level, we have raw data or specific instances, which are then abstracted into more generalized concepts at higher levels. These higher levels of abstraction represent theories that can be applied across various domains.
 
+<br>
+
+The diagram below represents this hierarchical structure of abstraction:
+
 ```
 Abstract Theory
 ↓
