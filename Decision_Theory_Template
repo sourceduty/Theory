@@ -1,0 +1,50 @@
+Decision Theory Template
+
+1. Define the Problem
+
+   - Problem Statement: Clearly articulate the decision that needs to be made.
+   - Objectives: What are the goals or desired outcomes?
+   - Constraints: Identify any limitations or restrictions.
+
+2. Identify the Alternatives
+
+   - List of Alternatives: Enumerate all possible choices or strategies.
+   - Feasibility: Evaluate whether each alternative is viable within the given constraints.
+
+3. Determine the Possible States of Nature
+
+   - States of Nature: Identify the possible scenarios or outcomes that can occur independently of the decision-maker’s actions.
+   - Probability Assignments (if applicable): Assign probabilities to each state of nature, if they are known or can be estimated.
+
+4. Payoff Matrix Construction
+
+   - Construct the Payoff Matrix: Develop a table where each cell represents the payoff (or loss) resulting from a combination of an alternative and a state of nature.
+   - Types of Payoffs: Define whether payoffs are measured in terms of utility, profit, cost, or another metric.
+
+5. Decision Rules
+
+   - Maximin Rule: Choose the alternative with the best worst-case outcome.
+   - Maximax Rule: Choose the alternative with the best possible outcome.
+   - Minimax Regret Rule: Minimize the maximum regret by considering the difference between the chosen alternative's outcome and the best possible outcome for each state of nature.
+   - Expected Value: Calculate the expected value for each alternative if probabilities are assigned to states of nature.
+   - Expected Utility (if applicable): Use if utility rather than monetary value is the decision criterion.
+
+6. Sensitivity Analysis
+
+   - Evaluate Sensitivity: Analyze how changes in probabilities, payoffs, or other assumptions affect the decision.
+   - Scenario Analysis: Explore different scenarios to see how they impact the decision.
+
+7. Make a Decision
+
+   - Optimal Decision: Select the alternative based on the chosen decision rule.
+   - Justification: Provide a rationale for why this decision is optimal, considering the analysis performed.
+
+8. Implementation
+
+   - Action Plan: Develop a plan to implement the chosen alternative.
+   - Monitoring: Set up a process to monitor the outcomes and adjust the plan if necessary.
+
+9. Review
+
+   - Outcome Evaluation: After implementation, review the outcomes to learn from the decision-making process.
+   - Feedback Loop: Incorporate lessons learned into future decision-making processes.
