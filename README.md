@@ -114,6 +114,8 @@ Unobservable theories are crucial in advancing scientific understanding because 
 [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
 <br>
 [Conspiracy Theory](https://github.com/sourceduty/Conspiracy_Theory)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
