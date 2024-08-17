@@ -83,7 +83,7 @@ These areas reflect the dynamic nature of mathematics, where new ideas continuou
 
 <br>
 
-10 new or emerging theoretical mathematical areas or topics:
+10 new or emerging theoretical math areas or topics:
 ```
 Homotopy Type Theory (HoTT)
 Tropical Geometry
