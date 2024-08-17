@@ -61,9 +61,13 @@ Theoretical mathematics continues to evolve with the emergence of new areas that
 
 - Homotopy Type Theory (HoTT) blends concepts from homotopy theory and type theory, offering a new foundation for mathematics. 
 
-- Tropical Geometry simplifies classical geometry by using algebraic structures over the tropical semiring, providing insights into combinatorial problems. Geometric Group Theory studies groups through their geometric properties, linking algebra with topology. 
+- Tropical Geometry simplifies classical geometry by using algebraic structures over the tropical semiring, providing insights into combinatorial problems. 
 
-- Arithmetic Dynamics explores the intersection of number theory and dynamical systems, focusing on the behavior of number sequences under iteration. Quantum Topology examines topological properties of spaces in the context of quantum physics, contributing to the understanding of quantum field theories. 
+_ Geometric Group Theory studies groups through their geometric properties, linking algebra with topology. 
+
+- Arithmetic Dynamics explores the intersection of number theory and dynamical systems, focusing on the behavior of number sequences under iteration.
+
+- Quantum Topology examines topological properties of spaces in the context of quantum physics, contributing to the understanding of quantum field theories. 
 
 - Derived Algebraic Geometry generalizes classical algebraic geometry using derived categories, allowing for deeper insights into spaces and morphisms. 
 
