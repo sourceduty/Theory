@@ -48,14 +48,6 @@ Raw Data
 ```
 
 #
-
-> Alex : "*In business and science, I refer to informational subjects that I have yet to entirely learn as theoretical.*"
-
-> "*Processing was a theory until I understood how it worked.*"
-
-> "*Quantum science is theoretical science to me right now.*"
-
-#
 ### Related Links
 
 [Process Theory](https://github.com/sourceduty/Process)
