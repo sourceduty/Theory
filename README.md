@@ -63,7 +63,7 @@ Theoretical mathematics continues to evolve with the emergence of new areas that
 
 - Tropical Geometry simplifies classical geometry by using algebraic structures over the tropical semiring, providing insights into combinatorial problems. 
 
-_ Geometric Group Theory studies groups through their geometric properties, linking algebra with topology. 
+- Geometric Group Theory studies groups through their geometric properties, linking algebra with topology. 
 
 - Arithmetic Dynamics explores the intersection of number theory and dynamical systems, focusing on the behavior of number sequences under iteration.
 
