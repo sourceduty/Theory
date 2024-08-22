@@ -148,6 +148,8 @@ The development of a new Theory of Everything requires a multidisciplinary appro
 [Quantum](https://github.com/sourceduty/Quantum)
 <br>
 [Math](https://github.com/sourceduty/Math)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
