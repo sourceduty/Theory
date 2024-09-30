@@ -135,7 +135,7 @@ A successful Theory of Everything would revolutionize our understanding of the u
 The development of a new Theory of Everything requires a multidisciplinary approach, combining advances in theoretical physics, experimental testing, and philosophical exploration. By proceeding with a theory plan, a theory could be tested and refined, gradually building towards a unified understanding of the fundamental forces and the nature of reality itself. This process will likely take many years, possibly decades, but with each step, we move closer to achieving a true Theory of Everything.
 
 #
-### Time
+### Time Models
 
 | Type of Model              | Time Representation          | Mathematical Tools                      | Typical Applications                              |
 |----------------------------|----------------------------------|---------------------------------------------|------------------------------------------------------|
