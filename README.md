@@ -178,6 +178,8 @@ Ultimately, the distinction between a theorist and a theoretical researcher lies
 [Math](https://github.com/sourceduty/Math)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Evolution](https://github.com/sourceduty/Evolution)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
