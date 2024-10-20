@@ -184,6 +184,8 @@ Ultimately, the distinction between a theorist and a theoretical researcher lies
 [Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
 <br>
 [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
+<br>
+[Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
