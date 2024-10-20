@@ -180,6 +180,10 @@ Ultimately, the distinction between a theorist and a theoretical researcher lies
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Evolution](https://github.com/sourceduty/Evolution)
+<br>
+[Theory of Norms](https://github.com/sourceduty/Theory_of_Norms)
+<br>
+[Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
