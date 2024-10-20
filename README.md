@@ -165,7 +165,7 @@ Ultimately, the distinction between a theorist and a theoretical researcher lies
 #
 ### Related Links
 
-[Process Theory](https://github.com/sourceduty/Process)
+[Process](https://github.com/sourceduty/Process)
 <br>
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
 <br>
