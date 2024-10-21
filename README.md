@@ -186,6 +186,8 @@ Ultimately, the distinction between a theorist and a theoretical researcher lies
 [Polar Duality Theory](https://github.com/sourceduty/Polar_Duality_Theory)
 <br>
 [Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
+<br>
+[Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
