@@ -1,4 +1,4 @@
-![Theory](https://github.com/user-attachments/assets/4adced5b-061e-4cdf-89d2-6bae2af7365b)
+![Theoretical Science](https://github.com/user-attachments/assets/dab071e1-3599-4eeb-9ecd-d1d4e4925b36)
 
 > Conceptual and abstract generalized ideas that provide a basis for how and why things happen.
 
@@ -17,6 +17,8 @@ A concept like gravity is a foundational idea, simple and focused on a single ph
 
 #
 ### Theoretical Frameworks
+
+![Theory](https://github.com/user-attachments/assets/4adced5b-061e-4cdf-89d2-6bae2af7365b)
 
 Scientific theories generally place a strong emphasis on observation and experimentation as the primary means of validating claims. The scientific method, which underpins these theories, involves forming hypotheses that can be tested through controlled experiments or empirical observations. This process ensures that theories are grounded in observable reality and can be consistently replicated by others. For most scientific disciplines, such as physics, chemistry, and biology, this approach has been highly successful in advancing our understanding of the natural world.
 
