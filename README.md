@@ -71,31 +71,39 @@ The fundamental concepts in theoretical modeling, such as points, lines, sets, a
 Spaces generalize geometric concepts, allowing analysis of continuity and dimensionality, while operators define rules for combining elements within sets. Structures, like groups and fields, combine sets, operations, and relations to form complex mathematical frameworks. Axioms are the foundational assumptions upon which these theories are built, ensuring logical consistency. Together, these concepts enable the construction of robust theoretical models that provide deep insights into abstract ideas and phenomena.
 
 #
-### Emerging Theoretical Math Areas
+### Theory Types
 
-Theoretical mathematics continues to evolve with the emergence of new areas that push the boundaries of traditional understanding. 
+```
+Theory Types
+   |
+   |-- Descriptive: Identifies recurring trends or regularities in data without attempting to explain them.
+   |       |
+   |    Patterns: Recognizes observable patterns or trends in data.
+   |       |
+   |    Forecasting: Predicts future events or behaviors based on observed trends and patterns.
+   |       |
+   |    Empirical: Grounded in data gathered through direct observation or experimentation.
+   |
+   |-- Explanatory: Establishes cause-and-effect relationships to explain observed phenomena.
+   |       |
+   |    Causal Framework: Identifies the causes behind observed phenomena.
+   |       |
+   |    Mechanistic: Explains the underlying processes or mechanisms that drive observed phenomena.
+   |       |
+   |    Functional: Focuses on understanding the purpose or function of elements within a system.
+   |
+   |-- Predictive: Uses established models or historical data to predict future outcomes or behaviors.
+   |       |
+   |    Forecasting: Predicts future outcomes or behaviors based on trends or models.
+   |
+   |-- Normative: Defines standards, values, or principles based on ethical, moral, or societal expectations.
+   |
+   |-- Theoretical: Proposes abstract concepts and principles that shape our understanding of a given field.
+```
 
-- Homotopy Type Theory (HoTT) blends concepts from homotopy theory and type theory, offering a new foundation for mathematics. 
+The structure of scientific theories can be categorized into various types, each with its distinct purpose and focus. Descriptive theories aim to identify and explain observable patterns or trends in data without necessarily providing causality. These theories can help researchers recognize recurring phenomena and provide a basis for further exploration. Forecasting, a subcategory of descriptive theory, uses patterns to predict future occurrences, often applying historical data to estimate future trends. Explanatory theories, on the other hand, delve deeper, seeking to establish causal relationships and mechanisms that explain why particular phenomena occur. They offer more comprehensive frameworks for understanding the processes behind observed patterns and behaviors.
 
-- Tropical Geometry simplifies classical geometry by using algebraic structures over the tropical semiring, providing insights into combinatorial problems. 
-
-- Geometric Group Theory studies groups through their geometric properties, linking algebra with topology. 
-
-- Arithmetic Dynamics explores the intersection of number theory and dynamical systems, focusing on the behavior of number sequences under iteration.
-
-- Quantum Topology examines topological properties of spaces in the context of quantum physics, contributing to the understanding of quantum field theories. 
-
-- Derived Algebraic Geometry generalizes classical algebraic geometry using derived categories, allowing for deeper insights into spaces and morphisms. 
-
-- Higher Category Theory extends category theory to higher dimensions, providing a framework for modeling more complex structures. 
-
-- Noncommutative Geometry explores spaces where the coordinates do not commute, offering a new perspective on geometry and its applications in physics. 
-
-- Discrete Differential Geometry focuses on discrete analogs of classical differential geometry, useful in computer graphics and digital modeling. 
-
-- Algebraic Statistics applies algebraic methods to statistical problems, particularly in the study of parametric models and data analysis. 
-
-These areas reflect the dynamic nature of mathematics, where new ideas continuously emerge to address both abstract questions and real-world challenges.
+Predictive theories, closely related to descriptive theories, leverage established models to forecast future events or behaviors based on historical or experimental data. These theories play a crucial role in fields like economics and meteorology, where predicting future outcomes is key. Normative theories are built on ethical or moral foundations, defining standards, values, or principles for guiding behavior in certain contexts. Theoretical theories provide the highest level of abstraction, proposing broad conceptual frameworks and principles that shape how we understand a given field. Together, these theory types serve distinct roles in scientific inquiry, from explaining the past and present to predicting and guiding future developments.
 
 <br>
 
