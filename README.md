@@ -105,22 +105,6 @@ The structure of scientific theories can be categorized into various types, each
 
 Predictive theories, closely related to descriptive theories, leverage established models to forecast future events or behaviors based on historical or experimental data. These theories play a crucial role in fields like economics and meteorology, where predicting future outcomes is key. Normative theories are built on ethical or moral foundations, defining standards, values, or principles for guiding behavior in certain contexts. Theoretical theories provide the highest level of abstraction, proposing broad conceptual frameworks and principles that shape how we understand a given field. Together, these theory types serve distinct roles in scientific inquiry, from explaining the past and present to predicting and guiding future developments.
 
-<br>
-
-10 new or emerging theoretical math areas or topics:
-```
-Homotopy Type Theory (HoTT)
-Tropical Geometry
-Geometric Group Theory
-Arithmetic Dynamics
-Quantum Topology
-Derived Algebraic Geometry
-Higher Category Theory
-Noncommutative Geometry
-Discrete Differential Geometry
-Algebraic Statistics
-```
-
 #
 ### Unobservable Theories
 
