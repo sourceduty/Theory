@@ -228,7 +228,7 @@ Infinite refers to something that has no end, limit, or boundary; it cannot be q
 
 #
 
-> Alex: "*Distance is infinite in the space on Earth and in outer space.*"
+> Alex: "*Distance is infinite in the space on Earth and into outer space.*"
 
 #
 ### Related Links
