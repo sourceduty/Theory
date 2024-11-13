@@ -220,6 +220,17 @@ Scientific evidence-proofing simulations work by generating predictions based on
 Alex dedicates focused time to the deep, methodical thinking required for advancing theory, theoretical computer science and programming within Sourceduty. He carefully examines complex problems, brainstorming ways to enhance Sourceduty tools while staying grounded in practical implementation. With a clear vision for innovation, he experiments with algorithms, explores the potential of open-source frameworks, and reflects on how emerging technologies can align with the company’s creative mission. These quiet moments of pondering allow Alex to chart new directions for Sourceduty, balancing technical precision with creative possibilities to develop solutions that are both impactful and future-proof.
 
 #
+### Infinite
+
+![Infinite](https://github.com/user-attachments/assets/b7883d9c-ddb0-4a20-b36b-e1b35c61b2b6)
+
+Infinite refers to something that has no end, limit, or boundary; it cannot be quantified or measured and extends indefinitely, whether in time, space, or concept. For example, the universe is often considered infinite in its vastness, numbers stretch infinitely without end, and time flows endlessly into the past and future. Unlimited, while similar, implies the absence of restrictions or constraints, allowing for boundless potential or freedom within a specific context. While infinite inherently means beyond measurable scope, unlimited often conveys the practical idea of freedom to act, achieve, or expand without predefined limits, but it may still operate within a broader framework of reality. The distinction lies in infinite being absolute and unquantifiable, whereas unlimited may imply unrestricted but potentially situational conditions.
+
+#
+
+> Alex: "*Distance is infinite in the space on Earth and in outer space.*"
+
+#
 ### Related Links
 
 [Process](https://github.com/sourceduty/Process)
