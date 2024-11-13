@@ -60,6 +60,8 @@ However, there are some theoretical frameworks within science that do not rely a
 #
 ### Standardized Theoretical Science
 
+![Theoretical](https://github.com/user-attachments/assets/ab65d37b-2cc2-45ff-b23b-22b4cfdcaf00)
+
 The standards of theoretical science are founded on precision, logical consistency, and the ability to explain or predict phenomena in the natural world. Theories must be testable, meaning they can be subjected to experimental validation or falsification, even if indirectly. These theories often emerge from mathematical models that simplify complex realities into understandable forms, using equations and abstract structures to describe the behavior of systems. Theoretical models need to account for empirical data while maintaining internal coherence, and they should also offer predictive power, guiding future experiments or observations. A theory's elegance, or simplicity, can also be an important aspect, as it often correlates with the theory's ability to generalize across different situations.
 
 Theoretical science also requires clear communication of concepts, ensuring they can be critically assessed by the scientific community. Hypotheses within a model must align with established knowledge unless substantial evidence supports a deviation. The use of assumptions in models is essential but must be clearly defined and justified. Concepts like falsifiability, where a theory can be proven wrong through observation or experimentation, and reproducibility, ensuring results can be consistently achieved under similar conditions, are central to scientific standards. Moreover, theories and models are frequently subjected to peer review to ensure their validity, robustness, and adherence to scientific methodology.
@@ -72,31 +74,6 @@ Theoretical science also requires clear communication of concepts, ensuring they
 The personalization of theories reflects the deep involvement of human creativity, perspective, and interpretation in the scientific process. While theories are grounded in empirical data and observation, their creation and development are influenced by the individual or group who proposes them. Scientists bring their unique experiences, backgrounds, and intellectual frameworks to the table, which shapes how they approach problems, select data, and interpret findings. This personal influence is evident in the language used, the scope of the theory, and the specific assumptions that underlie it. No theory is entirely objective or detached from the biases, values, or assumptions of its creators, which is why theories often evolve as new perspectives emerge or as new researchers challenge or refine existing frameworks.
 
 In addition to the intellectual input, the social and cultural context in which a theory is created also plays a crucial role. The theorist’s environment—whether it's a particular scientific discipline, geographical location, or historical period—can shape the questions they ask and the solutions they propose. Theories often reflect not only the current state of knowledge but also the prevailing paradigms and assumptions of the time. Personalization also extends to the way a theory is communicated and received by the scientific community. Researchers may face challenges in getting their ideas accepted, and their theories may be altered or adapted as they are discussed, critiqued, and refined by others. Ultimately, theories are human creations—products of individual inquiry, collaboration, and intellectual evolution.
-
-#
-### Theoretical Abstraction
-
-The abstraction of theory refers to the process of distilling complex ideas or systems into generalized concepts that can be applied across various contexts. This abstraction allows for the simplification and generalization of theories so that they can be used to explain or predict a wide range of phenomena. In essence, it involves taking specific instances or observations and drawing out the underlying principles that govern them. By doing so, theories become more versatile and can be applied to different situations, even those that were not originally considered. This process of abstraction is fundamental in disciplines such as mathematics, science, and philosophy, where it enables the development of models and frameworks that can be widely utilized.
-
-Abstraction in theory also involves removing the details that are not necessary for understanding the core concept. By focusing on the essential features, abstraction helps in creating a clear and concise representation of a theory that can be easily communicated and understood. This level of abstraction is particularly important when dealing with complex systems, as it allows theorists to manage complexity by isolating the most critical elements. For example, in computer science, abstraction is used to create models of computation that focus on the essential operations and data structures, leaving out the intricate details of the underlying hardware or software.
-
-In a broader sense, the abstraction of theory can be visualized using a topology diagram that illustrates how different levels of abstraction are connected. At the lowest level, we have raw data or specific instances, which are then abstracted into more generalized concepts at higher levels. These higher levels of abstraction represent theories that can be applied across various domains.
-
-<br>
-
-The diagram below represents this hierarchical structure of abstraction:
-
-```
-Abstract Theory
-↓
-Theoretical Model
-↓
-General Concept
-↓
-Specific Instance
-↓
-Raw Data
-```
 
 #
 ### Concepts of Theoretical Modelling
