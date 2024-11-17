@@ -249,6 +249,8 @@ Utilizing theoretical modeling templates involves applying these frameworks to s
 [Quadrilateral Polarity Theory](https://github.com/sourceduty/Quadrilateral_Polarity_Theory)
 <br>
 [Theoretical Experiment](https://github.com/sourceduty/Theoretical_Experiment)
+<br>
+[Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
