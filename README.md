@@ -13,7 +13,7 @@ Theories also have practical applications across various fields. They guide scie
 #
 ### Alex's Thoughts
 
-Alex has a dim view of theoretical modeling, dismissing it as a field riddled with speculative abstraction and hollow intellectual exercises. To Alex, the discipline feels like a futile game of guesswork, with its practitioners tossing conjectures into the vast wishing well of theoretical science, hoping for a stroke of relevance or validation. Rather than being grounded in actionable or tangible insights, theoretical modeling seems to Alex like an endless loop of reaching upwards into an intangible fog of ideas, disconnected from the concrete realities that matter most. In their eyes, it’s a pursuit mired in wishful thinking, far removed from the practical rigor they value.
+Alex holds a skeptical dim view of theoretical modeling, regarding it as a domain steeped in abstract guesswork and intellectual posturing. To Alex, it appears more like a speculative exercise, where theorists cast ideas into the void of uncertainty, chasing elusive validation without anchoring their efforts to practical outcomes. The field strikes Alex as disconnected, wrapped in layers of conceptual fog, far removed from the grounded realities they find meaningful. For Alex, the allure of theoretical modeling is overshadowed by its perceived lack of tangible impact, leaving them doubtful of its relevance to the real-world problems they prioritize.
 
 > "*It's full of people reaching upwards in abstraction and guessing, throwing a coin into the wishing well of theoretical science.*"
 
