@@ -268,5 +268,8 @@ Utilizing theoretical modeling templates involves applying these frameworks to s
 <br>
 [Theoretical Template](https://github.com/sourceduty/Theoretical_Template)
 
+#
+![Theoretical](https://github.com/user-attachments/assets/fc4f9872-4d86-44ad-abf6-8343c2d8de59)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
