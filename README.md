@@ -17,6 +17,8 @@ Theories also have practical applications across various fields. They guide scie
 
 In the realm of science, the progression from basic to theoretical fields can be significantly influenced by the levels of intelligence individuals possess. Basic science often requires strong analytical skills to understand and apply fundamental principles, whereas theoretical fields demand a higher level of abstract thinking and conceptualization. People with higher intelligence levels may find themselves naturally gravitating towards these more complex areas as they seek intellectually stimulating environments that challenge their cognitive capacities. This attraction is not merely about problem-solving or application of knowledge but involves the creation and understanding of new concepts that can fundamentally alter our grasp of the world.
 
+![Theorist](https://github.com/user-attachments/assets/12b178dc-e731-4b00-a6aa-51190f004053)
+
 Sociologically, the drive towards higher intelligence in scientific fields can also be seen as a pursuit of prestige and societal recognition. Fields that are perceived as more intellectually demanding often carry a higher status, thus attracting individuals who not only have the cognitive capabilities but also a desire for the social accolades that come with advanced scientific achievements. This dynamic can lead to a self-selecting elite in the upper echelons of science, where intellectual prowess becomes both a tool for advancement and a marker of social status. Consequently, this can create competitive environments that foster innovation but may also lead to issues of accessibility and diversity within the field.
 
 #
