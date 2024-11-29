@@ -11,6 +11,21 @@ In science, theories are not just speculative ideas but are grounded in empirica
 Theories also have practical applications across various fields. They guide scientific research, influence technological development, and shape policy decisions. For instance, the theory of evolution provides insights into biological diversity and informs fields like medicine and ecology. Similarly, the theory of relativity has profound implications for our understanding of space and time, impacting everything from GPS technology to our comprehension of the universe. Theories are thus not static but dynamic, continually refined and applied to solve real-world problems.
 
 #
+### Computer User Abstraction
+
+The levels of abstraction for computer users range from the most basic, hands-on interaction with hardware to the theoretical principles underlying computational systems. At the foundational level, users interact with physical components like processors and memory, often through operating systems that abstract complex hardware operations. Moving upward, users engage with software applications, where they can use graphical interfaces and command-line tools. This layer hides the complexity of system internals, making technology accessible to a broader audience. As the user advances, they may deal with programming languages and frameworks, which require a deeper understanding of logic, data structures, and algorithms but still abstract away hardware-level concerns.
+
+At the highest abstraction, the focus shifts to theoretical computer science, which deals with the study of algorithms, computational complexity, and formal models of computation. This is the realm of theoretical research, where concepts like Turing machines, automata, and computational hierarchies are explored. The ultimate goal here is to understand the fundamental limits of what can be computed, and this knowledge informs the development of more efficient algorithms and the evolution of computing theory itself. In essence, the path from user to researcher moves from direct interaction with technology to conceptual models that guide innovation.
+
+```
+5. Theoretical Computer Science
+4. Programming Languages & Frameworks
+3. Software Applications & User Interfaces
+2. Operating System Level
+1. Basic Interaction with Hardware
+```
+
+#
 ### High Aspired Lows
 
 ![Ascending](https://github.com/user-attachments/assets/e8ffaae4-a4bd-454b-abd8-5b4a07745ae6)
