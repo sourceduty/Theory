@@ -42,6 +42,44 @@ At the highest abstraction, the focus shifts to theoretical computer science, wh
 ```
 
 #
+### Complexity of Science
+
+Science Fields by Complexity (Descending Order)
+
+| Rank | Science Field                | Description                                                                                   |
+|------|------------------------------|-----------------------------------------------------------------------------------------------|
+| 1    | Theoretical Physics          | Involves highly abstract concepts like quantum mechanics, string theory, and cosmology.       |
+| 2    | Neuroscience                 | Studies complex networks of neurons and emergent phenomena in the brain and behavior.         |
+| 3    | Systems Biology              | Analyzes interactions between biological systems at all scales, requiring computational tools.|
+| 4    | Artificial Intelligence (AI) | Explores complex algorithmic systems with emergent behavior and ethical/social implications.  |
+| 5    | Climate Science              | Studies interdependent atmospheric, oceanic, and terrestrial systems with chaotic dynamics.   |
+| 6    | Quantum Chemistry            | Examines atomic and molecular interactions with quantum mechanics, highly computation-heavy.  |
+| 7    | Astronomy & Astrophysics     | Investigates massive-scale systems like galaxies, stars, and black holes with long timescales.|
+| 8    | Economics                    | Models human behavior and markets with dynamic, unpredictable, and nonlinear interactions.    |
+| 9    | Evolutionary Biology         | Studies the interplay of genetics, populations, and environments over vast timescales.       |
+| 10   | Medicine                     | Combines biological, chemical, and physical sciences to diagnose and treat complex diseases.  |
+| 11   | Computational Linguistics    | Examines language systems with combinatorial and probabilistic models.                       |
+| 12   | Ecology                      | Investigates the interrelationships of organisms and their environments.                      |
+| 13   | Materials Science            | Studies the properties of materials and their applications in various technologies.           |
+| 14   | Organic Chemistry            | Investigates carbon-based molecular systems with diverse structures and reactions.            |
+| 15   | Social Psychology            | Explores complex human behaviors and group dynamics.                                          |
+| 16   | Geology                      | Studies Earth's physical structure, processes, and history, integrating chemistry and physics.|
+| 17   | Data Science                 | Analyzes large datasets to identify patterns, trends, and insights using statistical methods. |
+| 18   | Microbiology                 | Studies microorganisms, including their physiology, genetics, and interactions.              |
+| 19   | Electrical Engineering       | Designs electrical systems with knowledge of physics and mathematical modeling.              |
+| 20   | Pure Mathematics             | Explores abstract systems governed by logical and symbolic reasoning.                        |
+| 21   | Mechanical Engineering       | Focuses on designing physical systems using applied physics and materials science.            |
+| 22   | Behavioral Economics         | Investigates human decision-making with insights from psychology and economics.              |
+| 23   | Sociology                    | Studies human societies, institutions, and relationships.                                    |
+| 24   | Botany                       | Explores plant biology, physiology, and ecology.                                             |
+| 25   | Paleontology                 | Studies ancient life forms and their fossilized remains.                                     |
+| 26   | Anthropology                 | Investigates human culture, biology, and evolution.                                          |
+| 27   | Zoology                      | Studies animal biology, behavior, and ecosystems.                                            |
+| 28   | Environmental Science        | Examines interactions between humans and natural systems.                                    |
+| 29   | Oceanography                 | Studies Earth's oceans, including physical, chemical, and biological processes.              |
+| 30   | Agronomy                     | Focuses on improving agricultural practices and crop production.                             |
+
+#
 ### High Aspired Lows
 
 ![Ascending](https://github.com/user-attachments/assets/e8ffaae4-a4bd-454b-abd8-5b4a07745ae6)
