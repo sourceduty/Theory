@@ -21,3 +21,7 @@ The independent generation of scientific theories by artificial intelligence mar
 #
 
 [Automatic Theorist](https://chatgpt.com/g/g-67fe7986a08c8191b6e47a94b6bbb3d0-automatic-theorist)
+<br>
+[Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
+<br>
+[Theory of Everything](https://github.com/sourceduty/Theory_of_Everything)
