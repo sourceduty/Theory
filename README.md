@@ -25,3 +25,5 @@ The independent generation of scientific theories by artificial intelligence mar
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
 <br>
 [Theory of Everything](https://github.com/sourceduty/Theory_of_Everything)
+<br>
+[New Science](https://github.com/sourceduty/New_Science)
