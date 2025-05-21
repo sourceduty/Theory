@@ -1,0 +1,35 @@
+Theoretical Abstract Engine Models
+│
+├── 1. Universal Engines (Meta-Conceptual Level)
+│   ├── Computation Engine (e.g., Turing Machine, Lambda Calculus)
+│   ├── Causal Engine (e.g., Mechanisms in Philosophy of Science)
+│   ├── Information Engine (e.g., Shannon's Communication Model)
+│   └── Dynamical Engine (e.g., Nonlinear Systems, Chaos Theory)
+│
+├── 2. Domain-General Engines (Cross-Disciplinary Systems)
+│   ├── Energy Transformation Engine
+│   │   ├── Thermodynamic Engine (e.g., Carnot Engine)
+│   │   └── Quantum Engine (e.g., Quantum Heat Engine)
+│   ├── Decision Engine
+│   │   ├── Game-Theoretic Engine
+│   │   └── Bayesian Inference Engine
+│   └── Evolutionary Engine
+│       ├── Genetic Algorithm Engine
+│       └── Selection-Pressure Engine
+│
+├── 3. Domain-Specific Engines (Field-Specific Instantiations)
+│   ├── Biological Engines
+│   │   ├── Metabolic Engine (e.g., ATP Cycle)
+│   │   └── Neural Engine (e.g., Brain as Predictive Machine)
+│   ├── Physical Engines
+│   │   ├── Electromechanical Engine
+│   │   └── Nuclear Fusion Engine
+│   └── Computational Engines
+│       ├── Neural Network Engine
+│       └── Cryptographic Engine
+│
+└── 4. Applied Synthetic Engines (Engineered Systems)
+    ├── AI Reasoning Engine
+    ├── Robotics Control Engine
+    ├── Blockchain Consensus Engine
+    └── Socio-Technical Engine (e.g., Markets, Governance Systems)
