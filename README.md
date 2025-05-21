@@ -4,7 +4,7 @@ Theoretical science and modeling form the backbone of many scientific discipline
 
 #
 
-![Theoretical Maths](https://github.com/user-attachments/assets/3b1b17f7-ad76-45a9-9b4b-efa9f724b012)
+![Theoretical](https://github.com/user-attachments/assets/c9ed7e6a-cf98-4c37-a11e-cce98208a4a6)
 
 [Theoretical Modelling](https://chatgpt.com/g/g-QTnHJWSCq-theoretical-modelling) was madeto assist users in developing and refining complex theoretical models across various fields like physics, economics, biology, and more. It focuses on providing detailed explanations, mathematical frameworks, and simulations that help users understand and explore abstract concepts. The goal is to support users in navigating the intricacies of modeling by offering clear, step-by-step guidance, helping them construct robust models while ensuring that all components are thoroughly considered. The GPT draws from a variety of disciplines to offer insights that connect ideas across fields, fostering a more holistic understanding of the problem at hand. It emphasizes accuracy, clarity, and conceptual depth, helping users to simplify complex ideas without losing their essential meaning. Additionally, the GPT adapts its responses based on the user's level of expertise and inquiry, ensuring that both beginners and advanced users find value in the support it provides. In this way, the GPT serves as both a tutor and a resource for anyone interested in exploring theoretical modeling in a methodical and comprehensive manner.
 
