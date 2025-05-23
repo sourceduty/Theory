@@ -22,6 +22,14 @@ Even after a complete Theory of Everything (ToE) is achieved—a unified framewo
 
 #
 
+![Theoretical](https://github.com/user-attachments/assets/319d4fa9-ed5b-49c6-bbb8-2b4f2605f026)
+
+There are professional theoretical scientists and no full-time theorists. A full-time theorist is someone who dedicates their career and time primarily to developing, refining, and applying theoretical frameworks within a specific scientific discipline. These individuals often hold academic positions at universities or research institutions where they conduct in-depth studies, publish scholarly articles, mentor students, and contribute to the advancement of knowledge through theoretical work.
+
+In high-level sciences such as physics, mathematics, computer science, economics, and cognitive neuroscience, theory plays a crucial role but is not always pursued exclusively by full-time theorists. Many scientists at this level engage in both theoretical and experimental research, combining their expertise in developing models with the ability to test them through empirical studies or simulations. For example, a theoretical physicist might spend part of their time formulating new theories about quantum gravity while also conducting experiments on particle accelerators like CERN's Large Hadron Collider. Similarly, a theoretical economist may develop sophisticated mathematical models for financial markets and then apply these models to real-world data sets to make predictions and policy recommendations.
+
+#
+
 [Automatic Theorist](https://chatgpt.com/g/g-67fe7986a08c8191b6e47a94b6bbb3d0-automatic-theorist)
 <br>
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
@@ -31,3 +39,5 @@ Even after a complete Theory of Everything (ToE) is achieved—a unified framewo
 [New Science](https://github.com/sourceduty/New_Science)
 <br>
 [Science X](https://github.com/sourceduty/Science_X)
+<br>
+[Math Tools](https://github.com/sourceduty/Math_Tools)
