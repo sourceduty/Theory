@@ -30,6 +30,14 @@ In high-level sciences such as physics, mathematics, computer science, economics
 
 #
 
+![Theoretical Vs Empirical Emphasis Across Sciences](https://github.com/user-attachments/assets/3ba10cfd-c3a9-4ed8-a6c5-ef267fe37a5c)
+
+The line graph illustrates the contrasting emphasis on abstract mathematical modeling versus empirical scientific evidence across several scientific disciplines. Quantum mechanics and economics emerge as the most theoretically inclined, with 60% and 65% of their foundational development attributed to abstract models, respectively. These fields heavily rely on mathematical constructs to make predictions, often preceding experimental confirmation. Classical physics maintains an even balance, reflecting its dual heritage of precise mathematical formulations and rigorous experimental validation. Chemistry leans more towards empirical methods, with 60% reliance, yet retains significant theoretical underpinnings in areas such as quantum chemistry and molecular modeling. This balance facilitates both exploratory discovery and predictive control over chemical reactions.
+
+In contrast, biology and psychology are distinctly more empirical, with 75% and 80% reliance on observational and experimental evidence, respectively. These sciences deal with inherently complex, variable systems—living organisms and human behavior—that resist straightforward mathematical formalization. As a result, theoretical models in these fields often emerge after extensive data collection and are continuously adapted to fit new findings. This empirical dominance aligns with their status as "natural sciences," rooted in direct observation of the natural world. However, with advances in systems biology, bioinformatics, and cognitive modeling, there is a growing integration of abstract methods. Nonetheless, the core methodology remains grounded in empirical investigation, making biology and psychology exemplars of naturalistic inquiry within the scientific spectrum.
+
+#
+
 [Automatic Theorist](https://chatgpt.com/g/g-67fe7986a08c8191b6e47a94b6bbb3d0-automatic-theorist)
 <br>
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
