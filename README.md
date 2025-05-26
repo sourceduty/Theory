@@ -44,6 +44,12 @@ In contrast, biology and psychology are distinctly more empirical, with 75% and 
 
 #
 
+![Higher Category Theory](https://github.com/user-attachments/assets/50f2a11e-ca0d-4681-a5ce-f4aed6ae4c5c)
+
+[Higher Category Theory](https://chatgpt.com/g/g-6834d55e49e08191b1a14a83c87e8c5f-higher-category-theory) is a specialized assistant designed to engage deeply with the mathematical domain of higher category theory, a field that generalizes classical category theory by introducing and rigorously organizing morphisms of all dimensions—morphisms between morphisms, and so forth, ad infinitum. Its primary role is to assist in the conceptual development, formal specification, and theoretical exploration of structures such as (∞,1)-categories, (∞,∞)-categories, n-categories, and related constructs. These structures are foundational to modern developments in homotopy theory, derived algebraic geometry, and higher topos theory, and this GPT is equipped to handle their complex interrelations. It supports constructing precise definitions, interpreting intricate commutative diagrams, and synthesizing insights across a range of advanced topics including ∞-groupoids, quasicategories, Segal spaces, and model-independent frameworks. Moreover, it enables rigorous reasoning about enriched ∞-categories, higher stacks, and abstract homotopical structures, while remaining faithful to foundational axioms and coherence conditions derived from operads, simplicial methods, and categorical limits and colimits. As both a research partner and an expository guide, it offers both expert-level formalism and intuitive pedagogical explanation, facilitating the understanding and manipulation of the abstract machinery underlying higher-dimensional category theory.
+
+#
+
 [Automatic Theorist](https://chatgpt.com/g/g-67fe7986a08c8191b6e47a94b6bbb3d0-automatic-theorist)
 <br>
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
