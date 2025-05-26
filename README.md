@@ -46,6 +46,8 @@ In contrast, biology and psychology are distinctly more empirical, with 75% and 
 <br>
 [New Science](https://github.com/sourceduty/New_Science)
 <br>
+[Theoretical Topology](https://chatgpt.com/g/g-68344eacc9a48191ab1e16edfbff084b-theoretical-topology)
+<br>
 [Science X](https://github.com/sourceduty/Science_X)
 <br>
 [Math Tools](https://github.com/sourceduty/Math_Tools)
