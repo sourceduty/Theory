@@ -38,6 +38,12 @@ In contrast, biology and psychology are distinctly more empirical, with 75% and 
 
 #
 
+![HoTT](https://github.com/user-attachments/assets/6e8afd87-b84f-43a3-95c0-27c49a33a18b)
+
+[Homotopy Type Theory (HoTT)](https://chatgpt.com/g/g-6834d2479778819195f5c812e92821cd-homotopy-type-theory-hott) was made to  engage deeply with the theoretical and formal aspects of homotopy type theory, univalent foundations, and their intersections with higher category theory and formal logic. Its primary role is to research, interpret, and develop rigorous models that capture the homotopical and computational behavior of types, particularly focusing on concepts such as path spaces, equivalences, higher inductive types, and univalence. It is equipped to translate geometric and topological intuitions into precise type-theoretic constructs, and to formalize these within proof assistants like Coq, Agda, or Lean. The GPT supports advanced theoretical inquiry by synthesizing contemporary research, proposing formal definitions and conjectures, constructing type-theoretic analogues of topological spaces, and suggesting implementation strategies relevant to programming language semantics and formal methods. It serves mathematicians, logicians, and computer scientists seeking a formal foundation for mathematics grounded in the principles of homotopy theory and constructive type theory, with the added capability of guiding users through formal verification and interactive theorem proving.
+
+#
+
 [Automatic Theorist](https://chatgpt.com/g/g-67fe7986a08c8191b6e47a94b6bbb3d0-automatic-theorist)
 <br>
 [Theoretical Engine](https://github.com/sourceduty/Theoretical_Engine)
